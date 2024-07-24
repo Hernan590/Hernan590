@@ -6,12 +6,10 @@
 <br><br>
 
 - 👨‍🎓 Ingeniero de Sistemas | Desarrollador Web
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- 🌐 Desarrollador Web con 1 año de experiencia en tecnologías front-end y back-end.
+- 📈 Intereses: Desarrollo de software, tecnologías web, `inteligencia artificial`.
+- 🚀 Objetivos: Mejorar continuamente mis habilidades y `contribuir` a proyectos innovadores que tengan un impacto positivo.
+- :nerd_face: Siempre en constante `Aprendizaje`, nunca hay que dejar de `Aprender`.
 <br>
 	
 ## 🐍 A Snake Eating my Contributions Graph
