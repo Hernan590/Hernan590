@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, Soy Hernan</h1>
 
-<p>Siempre buscando aprender y mejorar mis habilidades.</p>
+<h3> Estudiante de Ingeniería de Sistemas, siempre buscando aprender y mejorar mis habilidades.</h3>
  
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi
 
