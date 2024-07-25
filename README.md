@@ -19,9 +19,9 @@
 <br><br>
 
 - 🖥️ Lenagujes de programacion: `Javascript`, `PHP`.
-- 💻 Frontend: `HTML`, `CSS`, `React.js`, `Angular`, `Angularjs`.
+- 💻 Frontend: `HTML`, `CSS`, `React.js`, `Angular`, `Angularjs`, `Bootstrap`.
 - 🔧 Backend: `Node.js`, `Express.js`, `PHP`.
-- 🗄️ Bases de Datos: `MySQL`. `PostgreSQL`.
+- 🗄️ Bases de Datos: `MySQL`, `PostgreSQL`.
 - 👨‍💻 Herramientas y Tecnologías: `Git`, `Visual Studio Code`.
 <br>
 	
